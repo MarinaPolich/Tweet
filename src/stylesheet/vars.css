@@ -1,0 +1,15 @@
+:root {
+    --bg-body: linear-gradient(85.51deg, #000000 7.29%, #765848 92.71%);
+    --primary: #5736a3;
+    --text-color: #373737;
+    --acsent-color: #5CD3A8;
+    --success-color: #EBD8FF;
+    --title-color: linear-gradient(46.19deg, #FF1F01 5.66%, #FF6E31 42.15%, #FFC700 94.35%);
+    --card-bg: linear-gradient(114.99deg,
+        #471CA9 -0.99%,
+        #5736A3 54.28%,
+        #4B2A99 78.99%);
+    --warning: #FF0000;
+    --font-raleway: 'Montserrat', sans-serif;
+    --transition: 500ms linear;
+}
